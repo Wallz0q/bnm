@@ -12,7 +12,7 @@ const USERNAME = "root";
 
 // Satu-satunya grup yang boleh dipakai untuk /createvps.
 // Private chat bot TIDAK PERNAH boleh dipakai untuk create VPS, tanpa pengecualian (termasuk owner).
-const ALLOWED_GROUP_ID = "-1004298665463";
+const ALLOWED_GROUP_ID = "1004298665463";
 
 const RAILWAY_API_URL = "https://backboard.railway.com/graphql/v2";
 const CATCHMAIL_API_URL = "https://api.catchmail.io/api/v1";
